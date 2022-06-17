@@ -1,4 +1,5 @@
 //Given a graph, we need to print the distance of all the nodes from given source...
+//For this purpose we use the breadth-first traversal of our graph
 
 void shortestDistance(vector<int> adj[], int v, int start) {
     //To keep track of visited array
