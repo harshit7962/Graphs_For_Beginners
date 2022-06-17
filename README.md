@@ -5,3 +5,10 @@ There are two types of graphs:
 2) **Directed Graphs:** Graphs where edges have a particular direction and the edge (v1,v2) implies a path from v1 to v2, and not vice-versa...
 
 A graph can be represented using an adjacency matrix or an adjacency list.
+
+## Applications of DFS:
+1) Cycle Detection
+2) Topological Sorting
+3) Strongly Connected Components
+4) Solving Maze and Similar Puzzles
+5) Path Finding
