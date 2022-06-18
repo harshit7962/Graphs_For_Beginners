@@ -1,4 +1,4 @@
-//Given a graph, we need to return if it contains cycle or not...
+//DFS approach to detect if the graph contains any cycle
 
 bool checkForCycle(vector<int> adj[], vector<bool> &visited, int src, int parent) {
     vis[src] = true;
