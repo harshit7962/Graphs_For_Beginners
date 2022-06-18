@@ -6,9 +6,3 @@ There are two types of graphs:
 
 A graph can be represented using an adjacency matrix or an adjacency list.
 
-## Applications of DFS:
-1) Cycle Detection
-2) Topological Sorting
-3) Strongly Connected Components
-4) Solving Maze and Similar Puzzles
-5) Path Finding
