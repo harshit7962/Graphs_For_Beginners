@@ -8,7 +8,7 @@ vector<int> dijkstra(vector<int> graph[], int v, int src) {
     //Distance of src vertex from itself is initialized to 0
     distance[src] = 0;
     
-    //We need to visit all the vertex at-least once, infact at-most once will also give our resul, so we traverse v times
+    //We need to visit all the vertex at-least once, infact at-most once will also give our result, so we traverse v times
     for(int count=0;count<v;count++) {
       //In this section, we try to find out the minimum length of any vertex which can be visited from already visited vertices  
       int u=-1;
